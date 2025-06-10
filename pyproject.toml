@@ -13,7 +13,7 @@ description = "This is a textbox with some extra button not just copy"
 readme = "README.md"
 license = "apache-2.0"
 requires-python = ">=3.10"
-authors = [{ name = "YOUR NAME", email = "YOUREMAIL@domain.com" }]
+authors = [{ name = "Namany79", email = "namany7927@gmail.com" }]
 keywords = ["gradio-custom-component", "gradio-template-Textbox", "advancetextbox", "dewnload", "download", "downloadbtn", "downloadaspdf", "pdf", "downloadintextbox"]
 # Add dependencies here
 dependencies = ["gradio>=4.0,<6.0"]
